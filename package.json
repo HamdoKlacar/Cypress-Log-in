@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.3.0"
+  }
+}
